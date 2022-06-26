@@ -152,6 +152,7 @@ input {
   border: none;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
+  border-radius: 25px;
 }
 
 button {
@@ -392,7 +393,7 @@ input {
 
 .button:hover {
   background-color: var(--first-color-alt);
-  border-radius: 25px;
+  
 }
 
 .button--flex {

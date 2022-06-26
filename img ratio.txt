@@ -1,0 +1,26 @@
+.jbeg or .png:
+
+homepage (1 img)
+2200 px width
+1280 px height
+
+about (2 img)
+400 px width
+600 px height
+
+discover/costumes (4 img)
+400 px width
+600 px height
+or smaller or like a square 
+640 px width
+640 px height
+
+experience (2 img)
+1)
+600 px width
+400 px height
+2)
+400 px width
+600 px height
+
+

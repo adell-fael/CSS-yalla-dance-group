@@ -392,6 +392,7 @@ input {
 
 .button:hover {
   background-color: var(--first-color-alt);
+  border-radius: 25px;
 }
 
 .button--flex {

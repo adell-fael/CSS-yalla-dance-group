@@ -152,7 +152,6 @@ input {
   border: none;
   font-family: var(--body-font);
   font-size: var(--normal-font-size);
-  border-radius: 25px;
 }
 
 button {
@@ -393,7 +392,7 @@ input {
 
 .button:hover {
   background-color: var(--first-color-alt);
-  
+  border-radius: 25px;
 }
 
 .button--flex {
@@ -994,9 +993,12 @@ input {
   }
   .about__img-one {
     width: 230px;
+    border-radius: 25px;
   }
   .about__img-two {
     width: 290px;
+    border-radius: 25px;
+
   }
   .discover__card {
     width: 237px;

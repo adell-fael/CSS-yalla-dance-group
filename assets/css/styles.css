@@ -436,7 +436,7 @@ input {
   column-gap: 1rem;
   align-items: center;
   justify-content: center;
-  border-radius: 25px;
+ 
 }
 
 .about__img-overlay {
@@ -459,7 +459,6 @@ input {
 .about__img-one:hover, 
 .about__img-two:hover {
   transform: var(--img-scale);
-  border-radius: 25px;
   
 }
 
@@ -996,12 +995,9 @@ input {
   }
   .about__img-one {
     width: 230px;
-    border-radius: 25px;
   }
   .about__img-two {
     width: 290px;
-    border-radius: 25px;
-
   }
   .discover__card {
     width: 237px;

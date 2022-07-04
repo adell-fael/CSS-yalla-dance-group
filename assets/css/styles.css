@@ -570,6 +570,7 @@ input {
 
 .video__content {
   position: relative;
+  border-radius: 25px;
 }
 
 .video__button {

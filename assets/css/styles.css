@@ -147,6 +147,11 @@ video {
   height: auto;
 }
 
+/* my adds */
+video {
+  border-radius: 25px;
+}
+
 button,
 input {
   border: none;

@@ -147,10 +147,7 @@ video {
   height: auto;
 }
 
-/* my adds */
-video {
-  border-radius: 25px;
-}
+
 
 button,
 input {
@@ -393,11 +390,13 @@ input {
   padding: 1rem 2rem;
   font-weight: var(--font-semi-bold);
   transition: .3s;
+  /* adds */
+  border-radius: 8px;
 }
 
 .button:hover {
   background-color: var(--first-color-alt);
-  border-radius: 25px;
+  
 }
 
 .button--flex {
@@ -1065,7 +1064,7 @@ input {
 }
 
 
-/* my adds  */
+/* adds  */
 .email-link {
   font-size: var(--normal-font-size);
   color: var(--text-color-light);
@@ -1076,6 +1075,10 @@ input {
 
 #arabic1 {
   font-family: 'Noto Sans Arabic', sans-serif;
+}
+
+video {
+  border-radius: 10px;
 }
 
 /* loader cube code  */

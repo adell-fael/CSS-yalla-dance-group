@@ -382,6 +382,10 @@ input {
   transform: var(--img-scale);
 }
 
+.img-desktop {
+  display: none;
+}
+
 /*=============== BUTTONS ===============*/
 .button {
   display: inline-block;
@@ -975,6 +979,14 @@ input {
   .footer__rights {
     flex-direction: row;
     justify-content: space-between;
+  }
+
+  .img-phone {
+    display: none;
+  }
+
+  .img-desktop {
+    display: block;
   }
 }
 

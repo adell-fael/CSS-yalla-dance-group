@@ -4,6 +4,17 @@
 /* Arabic Language Font */
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wdth,wght@75.8,500;100,500&display=swap');
 
+*{
+
+  -webkit-tap-highlight-color: transparent;
+  -moz-tap-highlight-color: transparent;
+}
+
+a:focus,a:visited,a:active,
+button:focus,button:visited,button:active{
+  outline: none;
+}
+
 /*=============== VARIABLES CSS ===============*/
 :root {
   --header-height: 3rem;
